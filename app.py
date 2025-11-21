@@ -38,7 +38,7 @@ if opcion == 1:
     • Cálculos científicos y militares (trayectorias, descifrado de códigos).  
     • Procesamiento de datos para censos o contabilidad.  
     • Simulaciones básicas.
-    """")
+    """)
 if opcion == 2:
   st.info(" **1956 – Nace el campo de la IA en Dartmouth** | John McCarthy acuña el término *Inteligencia Artificial*.")
 if opcion == 3:

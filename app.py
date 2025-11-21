@@ -24,7 +24,21 @@ step=1
 st.image(imagenes[opcion], use_container_width=True)
 
 if opcion == 1:
-  st.info(" **Estadio 1: Las Primeras Computadoras Electrónicas (Años 40 - 50)** | **Recursos Computacionales:** | •	Hardware: Tubos de vacío, relés electromecánicos, tambores magnéticos para almacenamiento. | •	Velocidad: Medida en milisegundos por operación.| •	Memoria: Muy limitada, a menudo unos pocos kilobytes.| •	Programación: Se realizaba directamente en lenguaje máquina o ensamblador, a través de tarjetas perforadas o cableado.|**Aplicaciones Soportadas:** |•	Cálculos científicos y militares complejos (como trayectorias balísticas o descifrado de códigos).|•	Procesamiento de datos muy básicos para censos o contabilidad a gran escala. |•	Simulaciones rudimentarias.")
+  st.info("""
+    **Estadio 1: Las Primeras Computadoras Electrónicas (Años 40 - 50)**  
+    En este período, las computadoras eran máquinas masivas que ocupaban habitaciones enteras. Estaban construidas con miles de tubos de vacío, lo que las hacía muy grandes, costosas y propensas a fallas.
+    
+    **Recursos Computacionales:**  
+    • Hardware: Tubos de vacío, relés electromecánicos, tambores magnéticos.  
+    • Velocidad: Medida en milisegundos por operación.  
+    • Memoria: Muy limitada, apenas unos pocos KB.  
+    • Programación: En lenguaje máquina o ensamblador, usando tarjetas perforadas.  
+
+    **Aplicaciones Soportadas:**  
+    • Cálculos científicos y militares (trayectorias, descifrado de códigos).  
+    • Procesamiento de datos para censos o contabilidad.  
+    • Simulaciones básicas.
+    """")
 if opcion == 2:
   st.info(" **1956 – Nace el campo de la IA en Dartmouth** | John McCarthy acuña el término *Inteligencia Artificial*.")
 if opcion == 3:

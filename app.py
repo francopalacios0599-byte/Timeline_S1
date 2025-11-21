@@ -4,7 +4,7 @@ st.title("Desarrollo de la IA | Timeline")
 st.write("Autor: Franco Palacios | ISIL")
 st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de la IA.")
 # URLs de imágenes en GitHub
-base_url = "https://raw.githubusercontent.com/jaalvaradoh/Timeline_S1/main/timeline_images/"
+base_url = "https://raw.githubusercontent.com/francopalacios0599-byte/Timeline_S1/main/timeline_images/"
 imagenes = {
 1: base_url + "Timeline1.png",
 2: base_url + "Timeline2.png",

@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(page_title="Sesion 2 | ISIL", layout="centered")
-st.title("Desarrollo de la IA | Timeline")
+st.title("Evolución de Equipos de Cómputo | Timeline")
 st.write("Autores: Franco Palacios, Sebastian Gamarra, Daniel Garcia, Gabriel Chipana | ISIL")
 st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de la IA.")
 # URLs de imágenes en GitHub

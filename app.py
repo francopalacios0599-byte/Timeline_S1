@@ -22,6 +22,7 @@ step=1
 )
 # Mostrar imagen según slider
 st.image(imagenes[opcion], use_container_width=True)
+
 if opcion == 1:
 st.info(" **1950 – Test de Turing** | Alan Turing propone un criterio para evaluar la inteligencia de una máquina.")
 if opcion == 2:
